@@ -1,0 +1,6 @@
+
+#run code with walltime measurement written to file 
+python3 -m cProfile -o output.dat main.py
+
+#display analysis
+snakeviz output.dat 
