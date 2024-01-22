@@ -21,5 +21,5 @@ and spatial discretization combinations on the convergence behavior of Parareal.
 serialized. The Python code comes with a configuration file that allows for various modifications for conceivable numerical 
 experiment settings. 
 
-For future purposed the implementation of FEM and FVM discretizations is considered.
+In the future the implementation of FEM and FVM discretizations is considered.
   
